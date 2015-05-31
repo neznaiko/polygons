@@ -2,6 +2,9 @@
 
 **[PLAY IT HERE](http://ncase.me/polygons)**
 
+
+**[Český překlad - www.bajkaotvarech.cz](http://www.bajkaotvarech.cz)**
+
 ---
 
 This playable post is [public domain (CC0)](http://creativecommons.org/publicdomain/zero/1.0).
